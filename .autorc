@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "hamtoddsean",
+  "repo": "container-r33oyj8",
+  "name": "hamtoddsean",
+}
